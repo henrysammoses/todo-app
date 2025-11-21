@@ -94,14 +94,3 @@ GitHub: https://github.com/henrysammoses
 
 If you like this project, please ⭐ star the repository!
 It motivates me to create more projects 😊
-
----
-
-If you want, I can also:
-
-🔥 Add shields (badges)  
-🔥 Add GIF demo  
-🔥 Add animated screenshots section  
-🔥 Add project logo  
-
-Just tell me!
