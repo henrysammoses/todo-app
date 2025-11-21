@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# ✅ To-Do List App (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A clean and user-friendly **To-Do List Application** built using **React**, featuring login, add tasks, edit tasks, delete tasks, and a simple UI. This project is perfect for beginners learning React + Hooks.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+- 🔐 Login page (simple username/password)
+- ➕ Add tasks
+- ✏️ Edit tasks
+- ❌ Delete tasks
+- 🧹 Clean UI using Tailwind CSS
+- 📱 Fully responsive
+- ⚡ Fast and lightweight
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🖥️ Demo Preview
 
-### `npm test`
+> Add your screenshots here  
+> Example:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📌 Login Page
+📌 To-Do List Interface
 
-### `npm run build`
+(You can later upload images to GitHub → copy image link → paste here.)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Technology | Usage |
+|-----------|--------|
+| ⚛ React | Frontend |
+| 🎣 useState | State Management |
+| 🎨 Tailwind CSS | Styling |
+| 📝 VS Code | Development |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📂 Project Folder Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+todolist/
+│── src/
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+│
+└── package.json
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 Installation & Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/henrysammoses/todo-app.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Go to Project Folder
+cd todo-app
+Install Dependencies
+npm install
+Start the App
+npm start
 
-### Code Splitting
+App runs at: http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🧩 How It Works
 
-### Analyzing the Bundle Size
+🔐 Login Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Enter:
+	•	Username: admin
+	•	Password: 123
 
-### Making a Progressive Web App
+📝 To-Do Page
+	•	Type a task → click Add
+	•	Click Edit → modify task → Update
+	•	Click Delete → remove a task
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+🧑‍💻 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Henry Sam Moses D
+React Developer • IT Student • Tech Enthusiast
 
-### Deployment
+GitHub: https://github.com/henrysammoses
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+⭐ Support the Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you like this project, please ⭐ star the repository!
+It motivates me to create more projects 😊
+
+---
+
+If you want, I can also:
+
+🔥 Add shields (badges)  
+🔥 Add GIF demo  
+🔥 Add animated screenshots section  
+🔥 Add project logo  
+
+Just tell me!
