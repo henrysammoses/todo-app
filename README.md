@@ -18,13 +18,14 @@ A clean and user-friendly **To-Do List Application** built using **React**, feat
 
 ## 🖥️ Demo Preview
 
-> Add your screenshots here  
-> Example:
+<img width="1236" height="468" alt="Screenshot 2025-11-21 at 3 32 07 PM" src="https://github.com/user-attachments/assets/9db7e369-40d2-4394-8dcf-02613813a37e" />
+
+<img width="1236" height="468" alt="Screenshot 2025-11-21 at 3 34 06 PM" src="https://github.com/user-attachments/assets/c5b22615-2534-4c42-817f-981896174f98" />
+
 
 📌 Login Page
 📌 To-Do List Interface
 
-(You can later upload images to GitHub → copy image link → paste here.)
 
 ---
 
